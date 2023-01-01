@@ -34,5 +34,5 @@ yarn add react-native-simple-radio-buttons
 
 ## Support
 
-For support, follow me on LinkedIn [https://www.linkedin.com/in/arif-yousaf-mauk-19a548166/] or github.
+For support, follow me on LinkedIn [Mauk](https://www.linkedin.com/in/arif-yousaf-mauk-19a548166/) or github.
 
