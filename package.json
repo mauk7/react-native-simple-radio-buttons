@@ -1,0 +1,29 @@
+{
+  "name": "react-native-simple-radio-buttons",
+  "version": "1..0",
+  "description": "React Native simple radio buttons is small size but bried package",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "react": "18.1.0",
+    "react-native": "0.70.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/mauk7/react-native-simple-radio-buttons.git"
+  },
+  "keywords": [
+    "react native simple radio buttons",
+    "react native radio buttons",
+    "react native radio button simple",
+    "rn radio buttons"
+  ],
+  "author": "mauk <arifullahkhan176@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauk7/react-native-simple-radio-buttons/issues"
+  },
+  "homepage": "https://github.com/mauk7/react-native-simple-radio-buttons#readme"
+}
